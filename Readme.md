@@ -46,8 +46,4 @@ User → React App → FastAPI → Embeddings → VectorDB (Chroma) → RAG → 
 6. Pass context + query to LLM
 7. Return final answer
 
----
 
-## ▶️ Run locally
-
-### Backend
